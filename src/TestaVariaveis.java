@@ -1,8 +1,8 @@
-public class Programa {
+public class TestaVariaveis{
 
-	public static void main(String[] args) {
+    public static void main(String [] args) {
 
-		System.out.println("Olá novo teste");
+        System.out.println("Olá novo teste");
 
 		int idade;
 		idade = 37;
@@ -11,6 +11,9 @@ public class Programa {
 
 		idade += 23;
 		System.out.print("\n\nAgora sua idade é: " + idade);
-	}
+
+
+    }
+
 
 }
